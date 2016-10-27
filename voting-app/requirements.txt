@@ -1,2 +1,3 @@
 Flask
 Redis
+datadog==0.14.0
